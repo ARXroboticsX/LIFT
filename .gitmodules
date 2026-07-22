@@ -1,9 +1,0 @@
-[submodule "ARX_X5"]
-	path = ARX_X5
-	url = https://github.com/ARXroboticsX/ARX_X5.git
-	branch = main
-
-[submodule "ARX_all_in_one_readme"]
-	path = ARX_all_in_one_readme
-	url = https://github.com/ARXroboticsX/ARX_all_in_one_readme.git
-	branch = main
